@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset date="Sun May 18 20:26:14 CEST 2014">
+  <instance>
+    <name>diluyente laca de u?as</name>
+    <trademark>deliplus</trademark>
+    <subcategory>perfumeria</subcategory>
+    <price>2.95</price>
+    <supermarket>MERCADONA</supermarket>
+  </instance>
+  <instance>
+    <name>cerveza rubia nacional pack 6 botella 25 cl</name>
+    <trademark>HIPERCOR</trademark>
+    <subcategory>cerveza</subcategory>
+    <price>2</price>
+    <supermarket>HIPERCOR</supermarket>
+  </instance>
+  <instance>
+    <name>cerveza rubia nacional botella 1 l</name>
+    <trademark>HIPERCOR</trademark>
+    <subcategory>cerveza</subcategory>
+    <price>1,09</price>
+    <supermarket>HIPERCOR</supermarket>
+  </instance>
+  <instance>
+    <name>cerveza rubia nacional botella 1 l</name>
+    <trademark>ALIADA</trademark>
+    <subcategory>cerveza</subcategory>
+    <price>0,73</price>
+    <supermarket>HIPERCOR</supermarket>
+  </instance>
+  <instance>
+    <name>cerveza rubia nacional pack 6 botellas 25 cl</name>
+    <trademark>ALIADA</trademark>
+    <subcategory>cerveza</subcategory>
+    <price>1,57</price>
+    <supermarket>HIPERCOR</supermarket>
+  </instance>
+  <instance>
+    <name>cerveza rubia nacional pack 12 botellas 25 cl</name>
+    <trademark>MAHOU 5 ESTRELLAS</trademark>
+    <subcategory>cerveza</subcategory>
+    <price>5,25</price>
+    <supermarket>HIPERCOR</supermarket>
+  </instance>
+</dataset>

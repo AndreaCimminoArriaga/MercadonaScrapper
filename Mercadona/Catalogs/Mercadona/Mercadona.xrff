@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset name="supermarket">
+  <header>
+    <attributes>
+      <attribute name="category0" type="string">
+        <metadata>
+          <property name="weight">0.1</property>
+        </metadata>
+      </attribute>
+      <attribute name="category1" type="string">
+        <metadata>
+          <property name="weight">0.1</property>
+        </metadata>
+      </attribute>
+      <attribute name="category2" type="string">
+        <metadata>
+          <property name="weight">0.3</property>
+        </metadata>
+      </attribute>
+      <attribute name="category3" type="string">
+        <metadata>
+          <property name="weight">0.6</property>
+        </metadata>
+      </attribute>
+      <attribute name="name" type="string">
+        <metadata>
+          <property name="weight">0.0</property>
+        </metadata>
+      </attribute>
+      <attribute name="price" type="string">
+        <metadata>
+          <property name="weight">0.0</property>
+        </metadata>
+      </attribute>
+      <attribute name="ownCategory" type="string">
+        <metadata>
+          <property name="weight">0.0</property>
+        </metadata>
+      </attribute>
+      <attribute name="PPW" type="string">
+        <metadata>
+          <property name="weight">0.0</property>
+        </metadata>
+      </attribute>
+    </attributes>
+  </header>
+  <body>
+    <instances>
+      <instance>
+        <value>PERFUMERIA</value>
+        <value>LACA DE U&amp;Ntilde;AS</value>
+        <value>?</value>
+        <value>?</value>
+        <value>diluyente laca de u?as</value>
+        <value>2.95</value>
+        <value>perfumeria</value>
+        <value>, ")</value>
+        <value>deliplus</value>
+      </instance>
+      <instance>
+        <value>PERFUMERIA</value>
+        <value>LACA DE U&amp;Ntilde;AS</value>
+        <value>?</value>
+        <value>?</value>
+        <value>guias manicura francesa</value>
+        <value>1.5</value>
+        <value>perfumeria</value>
+        <value>, ")</value>
+        <value>deliplus</value>
+      </instance>
+      <instance>
+        <value>PERFUMERIA</value>
+        <value>LACA DE U&amp;Ntilde;AS</value>
+        <value>?</value>
+        <value>?</value>
+        <value>laca u?as 60 segundos n? 303 rojo ***novedad***</value>
+        <value>2</value>
+        <value>perfumeria</value>
+        <value>, ")</value>
+        <value>rimmel</value>
+      </instance>
+      <instance>
+        <value>PERFUMERIA</value>
+        <value>LACA DE U&amp;Ntilde;AS</value>
+        <value>?</value>
+        <value>?</value>
+        <value>laca u?as 60 segundos n? 323 rosa ***novedad***</value>
+        <value>2</value>
+        <value>perfumeria</value>
+        <value>, ")</value>
+        <value>rimmel</value>
+      </instance>
+      <instance>
+        <value>PERFUMERIA</value>
+        <value>LACA DE U&amp;Ntilde;AS</value>
+        <value>?</value>
+        <value>?</value>
+        <value>laca u?as 60 segundos n? 403 naranja ***novedad***</value>
+        <value>2</value>
+        <value>perfumeria</value>
+        <value>, ")</value>
+        <value>rimmel</value>
+      </instance>
+      <instance>
+        <value>PERFUMERIA</value>
+        <value>LACA DE U&amp;Ntilde;AS</value>
+        <value>?</value>
+        <value>?</value>
+        <value>laca u?as 60 segundos n? 703 blanco ***novedad***</value>
+        <value>2</value>
+        <value>perfumeria</value>
+        <value>, ")</value>
+        <value>rimmel</value>
+      </instance>
+      
+    </instances>
+     </body>
+     </dataset>
