@@ -3,8 +3,9 @@ MercadonaScrapper
 
 A scrapper for the Mercadona page (https://www.mercadona.es/ns/index.php).
 NOTE: This project is a part of another much bigger, but for privacity i just upload this.
-
+The folder Mercadona is a Eclipse project.
 Developed in Java with different technologies:
+
 	- For the catalog i used jsoup (http://jsoup.org/) + apache http client (http://hc.apache.org/httpclient-3.x/).
 	- For the cart scrapper i used htmlUnitDriver from Selenium (http://docs.seleniumhq.org/)
 	- For matching names the program uses Levensthein distance.
